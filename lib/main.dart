@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Time Tracker',
+      title: 'omar',
       theme: ThemeData(
         primarySwatch: Colors.indigo,
         //primary color for all of the widgets

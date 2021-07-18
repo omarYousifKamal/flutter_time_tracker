@@ -3,6 +3,7 @@ import 'package:time_tracker_flutter_course/app/sign_in/sign_in_button.dart';
 import 'package:time_tracker_flutter_course/app/sign_in/social_sign_in_button.dart';
 import 'package:time_tracker_flutter_course/common_widgets/custom_text_button.dart';
 
+//omar omar
 class SignInPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -46,7 +47,7 @@ Widget _buildContent() {
             color: Colors.white,
             textColor: Colors.black,
             onPressed: () {}),
-        SizedBox(height: 8.0),
+
         // SocialSignInButton(
         //     assetName: 'images/fb.png',
         //     text: 'Sign in with facebook',
